@@ -1,9 +1,9 @@
 # adopted from https://github.com/jekyll/minima/blob/master/_config.yml
 
-title: arrg0m
+title: Yet another blog
 author: arrg0m
 email: hyeongmin.byun@gmail.com
-description: Personal blog :P
+description: 
 url: http://arrg0m.github.io
 baseurl: 
 
