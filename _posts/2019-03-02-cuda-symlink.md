@@ -1,5 +1,5 @@
 ---
-title: ldconfig.real - something is not a symbolic link
+title: cuDNN- something is not a symbolic link
 date: 2019-03-02 14:00:00 +0900
 categories: troubleshooting, cuda, cudnn
 ---
