@@ -31,6 +31,7 @@ lrwxrwxrwx   21 root 27 Feb 15:36 libcudart.so.10.1 -> /usr/local/cuda-10.1/targ
 ```
 
 사실 얘네들, 내용은 완전 같은 파일인데 중복되어 있는 녀석들이라서,
+
 ```bash
 ❯❯❯ md5sum /usr/local/cuda-10.1/targets/x86_64-linux/lib/libcudnn.so
 e55a1e48b671d37c05fae8c35499b618  libcudnn.so
@@ -41,6 +42,7 @@ e55a1e48b671d37c05fae8c35499b618  libcudnn.so.7.5.0
 ```
 
 그냥 manually 날려버리고 직접 symlink를 달아주면 해결이 됩니다.
+
 ```bash
 ❯❯❯ sudo rm /usr/local/cuda-10.1/targets/x86_64-linux/lib/libcudnn.so /usr/local/cuda-10.1/targets/x86_64-linux/lib/libcudnn.so.7 -f
 
