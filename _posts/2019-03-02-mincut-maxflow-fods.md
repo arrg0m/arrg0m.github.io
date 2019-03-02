@@ -2,6 +2,7 @@
 title: Non-trivial example for "Community Finding and Graph Partitioning"
 date: 2019-03-02 18:00:00 +0900
 categories: graph
+published: false
 ---
 
 {% include lib/mathjax.html %}
