@@ -1,7 +1,7 @@
 ---
 title: cuDNN- something is not a symbolic link
 date: 2019-03-02 14:00:00 +0900
-categories: troubleshooting, cuda, cudnn
+categories: troubleshooting cuda cudnn
 ---
 
 cuDNN 등을 설치할 떄 종종 다음과 같은 오류를 만나곤 합니다.
