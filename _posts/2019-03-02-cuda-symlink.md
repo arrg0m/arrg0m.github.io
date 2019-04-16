@@ -60,3 +60,7 @@ lrwxrwxrwx   17 root 27 Feb 17:32 libcudnn.so.7 -> ./libcudnn.so.7.5.0
 저는 [Tar file로부터 설치](https://docs.nvidia.com/deeplearning/sdk/cudnn-install/index.html#installlinux-tar)하는 과정에서 이 문제를 몇 번 마주쳤는데, 아마도 tar 파일을 풀면서 있던 symlink가, directory를 복사하는 과정에서 내용물이 가끔 hard copy되어 생기는 문제로 예상이 됩니다.
 
 이 문제의 교훈은 **에러 메시지를 잘 읽자** 정도가 되겠네요. 금방 찾을 수 있는 내용이긴 한데 하도 자주 까먹어서 굳이 기록해둡니다.
+
+---
+
+20190328 Update - 뒤늦게 깨달은 사실: `cp -a` 옵션을 주면 symlink가 고대로 잘 복사됩니다.
