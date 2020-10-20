@@ -9,8 +9,27 @@ layout: default
 ## Working Experience
 
 ### [Hyperconnect](https://hyperconnect.com/?lang=en), Seoul, Korea.
-* **Machine Learning Software Engineer** / Nov 2019 - Current
-* **Machine Learning Engineer** / Mar 2018 - Nov 2019
+* **Machine Learning Software Engineer**, *ML Platform Team* / Nov 2019 - Current
+
+  - Develop and Operate AI-driven Moderation System
+  - Deploy and Troubleshooting ML Services for Company Products
+  - Design and Development of Data Pipeline for "Virtuous cycle of AI"
+  - Manage Train/Service Infrastructure
+  - Design and Develop Library for model training, evaluation and deployment
+  - Data Analysis
+
+
+* **Machine Learning Engineer**, *ML Team* / Mar 2018 - Nov 2019
+
+  - Image Classification Model with fuzzy and imbalanced labels
+  - Image Segmentation (Portrait, Salient, Sky)
+  - Image Enhancement
+  - Keyword Spotting
+  - Voice Conversion
+
+  - Inspection and Optimization Performance of Mobile DL Engine
+  - Image Classification Model for mobile deployment (LPIRC)
+  - Data Anonymization
 
 ## **Education**
 
