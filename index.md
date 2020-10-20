@@ -13,36 +13,34 @@ layout: default
 
   - Develop and Operate AI-driven Moderation System
   - Deploy and Troubleshooting ML Services for Company Products
-  - Design and Development of Data Pipeline for "Virtuous cycle of AI"
+  - Design and Development of Data Pipeline for *Virtuous cycle of AI*
   - Manage Train/Service Infrastructure
-  - Design and Develop Library for model training, evaluation and deployment
-  - Data Analysis
+  - Develop Library for model training, evaluation and deployment
+  - Data Analysis and Monitoring
 
 
 * **Machine Learning Engineer**, *ML Team* / Mar 2018 - Nov 2019
 
-  - Image Classification Model with fuzzy and imbalanced labels
-  - Image Segmentation (Portrait, Salient, Sky)
+  - Lightweighted multi-task Image Classification
+  - Image Segmentation: Portrait, Salient, Sky
   - Image Enhancement
   - Keyword Spotting
   - Voice Conversion
+  - Performance Optimization of Mobile DL Engine
 
-  - Inspection and Optimization Performance of Mobile DL Engine
-  - Image Classification Model for mobile deployment (LPIRC)
-  - Data Anonymization
 
 ## **Education**
 
 ### KAIST Business School, Seoul, Korea
-* **ME in Management Engineering, Managerial Economics** / Feb 2016 - Feb 2018
+* **Master of Engineering, Managerial Economics**, *School of Management Engineering* / Feb 2016 - Feb 2018
   * **Research Theme**: Business Cycles, Macro-Finance and Macroeconometrics
-  * **Thesis**: Effects of Investment-Specific Technology Shocks in Korea [KAIST Library](http://library.kaist.ac.kr/search/ctlgSearch/posesn/view.do?bibctrlno=842576&se=t0&ty=B&_csrf=8dd4449c-82ec-4646-ba81-af1ef336b130)
+  * **Thesis**: Effects of Investment-Specific Technology Shocks in Korea. Accessible via [KAIST Library](http://library.kaist.ac.kr/search/ctlgSearch/posesn/view.do?bibctrlno=842576&se=t0&ty=B&_csrf=8dd4449c-82ec-4646-ba81-af1ef336b130)
 
 ### Seoul National University, Seoul, Korea
-* **MS student, Statistical Learning & Computational Finance Lab** / Mar 2014 - Jun 2015 (Suspended)
+* **Master student**, *Statistical Learning & Computational Finance Lab, Department of Industrial Engineering* / Mar 2014 - Jun 2015 (Suspended)
   * **Research Theme**: Analysis of Financial Derivatives with Machine Learning Models
-* **BS in Industrial Engineering** / Mar 2009 - Feb 2014
-  * with double major in Mathematical Science, double major in Statistics and minor in Economics. Graduated *Cum Laude*
+* **Bachelor of Science in Engineering**, *Department of Industrial Engineering* / Mar 2009 - Feb 2014
+  * with double major in Mathematical Science; double major in Statistics; and minor in Economics. Graduated *Cum Laude*
 
 ### Seoul Science High School, Seoul, Korea
 * Mar 2007 - Feb 2009
@@ -94,11 +92,11 @@ layout: default
 
 ## **Teaching and Tutoring Experiences**
 
-### **TEACHING ASSISTANT** (in Seoul National University)
+### **TEACHING ASSISTANT** (Seoul National University)
 * Operations Research II / 2014 Spring, 2015 Spring
 * Engineering Research and Practice II / 2014 Spring
 
-### **UNDERGRADUATE TUTOR** (in Seoul National University)
+### **UNDERGRADUATE TUTOR** (Seoul National University)
 * Operations Research I / 2013 Fall
 * Engineering Mathematics I / 2013 Spring
 * Foundations of Physics I / 2013 Spring
