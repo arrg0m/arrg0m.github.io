@@ -9,7 +9,7 @@ layout: default
 ## Working Experience
 
 ### [Hyperconnect](https://hyperconnect.com/?lang=en), Seoul, Korea.
-* **Machine Learning Software Engineer**, *ML Platform Team* / Nov 2019 - Current
+* **Machine Learning Software Engineer**, *AI Lab* / Nov 2019 - Current
 
   - Develop and Operate AI-driven Moderation System
   - Deploy and Troubleshooting ML Services for Company Products
@@ -43,7 +43,7 @@ layout: default
   * with double major in Mathematical Science; double major in Statistics; and minor in Economics. Graduated *Cum Laude*
 
 ### Seoul Science High School, Seoul, Korea
-* Mar 2007 - Feb 2009
+* Mar 2006 - Feb 2009
 
 ## **Honors and Awards**
 
@@ -113,5 +113,4 @@ layout: default
 * Director, SNU Representative / 2011 - 2012 Summer
 
 ## Other Links
-* BOJ: [arrgom](https://www.acmicpc.net/user/arrgom) ([solved.ac](https://solved.ac/profile/arrgom))
 * Linkedin: [Hyeongmin Byun](https://www.linkedin.com/in/hyeongmin-byun-054281151/)
