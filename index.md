@@ -9,25 +9,18 @@ layout: default
 ## Working Experience
 
 ### [Hyperconnect](https://hyperconnect.com/?lang=en), Seoul, Korea.
-* **Machine Learning Software Engineer**, *AI Lab* / Nov 2019 - Current
 
-  - Develop and Operate AI-driven Moderation System
-  - Deploy and Troubleshooting ML Services for Company Products
-  - Design and Development of Data Pipeline for *Virtuous cycle of AI*
-  - Manage Train/Service Infrastructure
-  - Develop Library for model training, evaluation and deployment
-  - Data Analysis and Monitoring
+* **Machine Learning Software Engineer**, *AI Lab / AI Platform Dept* / Nov 2019 - Current
 
+  - AI-Driven Content Moderation System with Virtuous Cycle of AI
+  - Streaming Services for Real-Time Content Understanding
+  - Training and Serving Infrastructure
 
 * **Machine Learning Engineer**, *ML Team* / Mar 2018 - Nov 2019
 
-  - Lightweighted multi-task Image Classification
-  - Image Segmentation: Portrait, Salient, Sky
-  - Image Enhancement
-  - Keyword Spotting
-  - Voice Conversion
+  - On-device Model for Content Understanding
+  - On-device Model for Service Application
   - Performance Optimization of Mobile DL Engine
-
 
 ## **Education**
 
