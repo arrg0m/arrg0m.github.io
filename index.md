@@ -12,15 +12,17 @@ layout: default
 
 * **Machine Learning Software Engineer**, *AI Lab / AI Platform Dept* / Nov 2019 - Current
 
-  - AI-Driven Content Moderation System with Virtuous Cycle of AI
-  - Streaming Services for Real-Time Content Understanding
-  - Training and Serving Infrastructure
+  - Develop Streaming Services for Real-time Content Understanding on Live Streaming
+  - Design and Operation of AI-Powered Content Moderation System
+  - Develop ML Inference Gateway Microservice for Internal Usage
+  - Develop Training and Serving Infrastructure for Machine Learning Research
+
 
 * **Machine Learning Engineer**, *ML Team* / Mar 2018 - Nov 2019
 
-  - On-device Model for Content Understanding
-  - On-device Model for Service Application
-  - Performance Optimization of Mobile DL Engine
+  - Research for On-Device Machine Learning Models for Content Understanding
+  - Research for On-Device Machine Learning Models for New Features
+
 
 ## **Education**
 
