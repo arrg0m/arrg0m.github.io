@@ -10,7 +10,9 @@ layout: default
 
 ### [Hyperconnect](https://hyperconnect.com/?lang=en), Seoul, Korea.
 
-* **Machine Learning Software Engineer**, *AI Lab / AI Platform Dept* / Nov 2019 - Current
+* **Data Scientist**, *AI Lab* / Mar 2022 - Present
+
+* **Machine Learning Software Engineer**, *AI Lab / AI Platform Dept* / Nov 2019 - Mar 2022
 
   - Develop Streaming Services for Real-time Content Understanding on Live Streaming
   - Design and Operation of AI-Powered Content Moderation System
@@ -109,3 +111,4 @@ layout: default
 
 ## Other Links
 * Linkedin: [Hyeongmin Byun](https://www.linkedin.com/in/hyeongmin-byun-054281151/)
+
