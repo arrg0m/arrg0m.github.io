@@ -61,7 +61,7 @@ layout: default
 * Gold Prize (ranked 2-14th) in Mathematics major division / Nov 2012
 * Gold Prize (ranked 2-10th) in Mathematics major division / Nov 2011
 * First Place in non-Math major division / Oct 2010
-<!-- 
+<!---
 ## **Skills**
 
 ### **TECHNICALITIES**
@@ -82,7 +82,8 @@ layout: default
 * **Hyeongmin Byun**, Youngdoo Son and Jaewook Lee. *Effects of Keyword Search Volume on Credit Default Swap Spread Prediction*. KIIE (Korea Institute of Industrial Engineers) Conference, April 2015. Jeju, Korea. [link](http://riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=351022e8f46b6acb7ecd42904f0c5d65)
 * Youngdoo Son, **Hyeongmin Byun** and Jaewook Lee. “Nonparametric Models for Predicting Credit Default Swap Prices: Empirical Study.” *INFORMS (Institute for Operations Research and Management Science) Annual Meeting 2014*, Nov 2014. San Francisco, CA, USA.
 * Youngdoo Son, Saerom Park, **Hyeongmin Byun** and Jaewook Lee. *Computing Default Probability using Ensemble Method.* 15th APIEMS (Asia Pacific Industrial Engineering and Management Systems) Conference, Oct 2014. Jeju, Korea. *Best Student's Paper Award* [news](http://eng.snu.ac.kr/node/896)
-<!-- 
+
+<!---
 ## **Teaching and Tutoring Experiences**
 
 ### **TEACHING ASSISTANT** (Seoul National University)
