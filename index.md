@@ -61,18 +61,6 @@ layout: default
 * Gold Prize (ranked 2-14th) in Mathematics major division / Nov 2012
 * Gold Prize (ranked 2-10th) in Mathematics major division / Nov 2011
 * First Place in non-Math major division / Oct 2010
-<!---
-## **Skills**
-
-### **TECHNICALITIES**
-
-* Python, SQL, R, LaTeX - Intermediate
-* Bash, MATLAB, C/C++ - Beginner
-
-### **LANGUAGES**
-
-* Korean - Native
-* English - Intermediate -->
 
 ## **Publications and Conference Presentations**
 
@@ -84,6 +72,19 @@ layout: default
 * Youngdoo Son, Saerom Park, **Hyeongmin Byun** and Jaewook Lee. *Computing Default Probability using Ensemble Method.* 15th APIEMS (Asia Pacific Industrial Engineering and Management Systems) Conference, Oct 2014. Jeju, Korea. *Best Student's Paper Award* [news](http://eng.snu.ac.kr/node/896)
 
 <!---
+## **Skills**
+
+### **TECHNICALITIES**
+
+* Python, SQL, R, LaTeX - Intermediate
+* Bash, MATLAB, C/C++ - Beginner
+
+### **LANGUAGES**
+
+* Korean - Native
+* English - Intermediate
+
+
 ## **Teaching and Tutoring Experiences**
 
 ### **TEACHING ASSISTANT** (Seoul National University)
