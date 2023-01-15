@@ -10,20 +10,11 @@ layout: default
 
 ### [Hyperconnect](https://hyperconnect.com/?lang=en), Seoul, Korea.
 
-* **Data Scientist**, *AI Lab* / Mar 2022 - Present
+* **Data Scientist** / Mar 2022 - Present
 
-* **Machine Learning Software Engineer**, *AI Lab / AI Platform Dept* / Nov 2019 - Mar 2022
+* **Machine Learning Software Engineer** / Nov 2019 - Mar 2022
 
-  - Develop Streaming Services for Real-time Content Understanding on Live Streaming
-  - Design and Operation of AI-Powered Content Moderation System
-  - Develop ML Inference Gateway Microservice for Internal Usage
-  - Develop Training and Serving Infrastructure for Machine Learning Research
-
-
-* **Machine Learning Engineer**, *ML Team* / Mar 2018 - Nov 2019
-
-  - Research for On-Device Machine Learning Models for Content Understanding
-  - Research for On-Device Machine Learning Models for New Features
+* **Machine Learning Engineer** / Mar 2018 - Nov 2019
 
 
 ## **Education**
