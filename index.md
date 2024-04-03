@@ -10,7 +10,7 @@ layout: default
 
 ### [Hyperconnect](https://hyperconnect.com/?lang=en), Seoul, Korea
 
-* **Data Scientist** / Mar 2022 - Present
+* **Data Scientist** / Mar 2022 -
 
 * **Machine Learning Software Engineer** / Nov 2019 - Mar 2022
 
@@ -40,7 +40,6 @@ layout: default
 ### LPIRC (Low Power Image Recognition Challenge), CVPR 2018 Conference
 
 * Second Prize for Track 1 with Hyperconnect ML Team, June 2018.
-* [Accompanying blog post](https://hyperconnect.github.io/2018/06/26/lpirc-2018.html)
 
 ### Dean's List, KAIST Business School
 
@@ -64,12 +63,19 @@ layout: default
 
 ## **Publications and Conference Presentations**
 
+* Seong Min Kye, Kwanghee Choi, **Hyeongmin Byun** and Buru Chang. *TiDAL: Learning Training Dynamics for Active Learning*. Arxiv 2210.06788 [link](https://arxiv.org/abs/2210.06788); International Conference on Computer Vision, Oct 2023, Paris, France [link](https://openaccess.thecvf.com/content/ICCV2023/html/Kye_TiDAL_Learning_Training_Dynamics_for_Active_Learning_ICCV_2023_paper.html)
 * Seungwoo Choi, Seokjun Seo, Beomjun Shin, **Hyeongmin Byun**, Martin Kersner, Beomsu Kim, Dongyoung Kim\* and Sungjoo Ha\*. *Temporal Convolution for Real-time Keyword Spotting on Mobile Devices”*. Arxiv preprint 1904.03814 [link](https://arxiv.org/abs/1904.03814); INTERSPEECH, Oct 2019, Graz, Austria.
 * Seokjun Seo, Seungwoo Choi, Martin Kersner, Beomjun Shin, Hyungsuk Yoon, **Hyeongmin Byun** and Sungjoo Ha\*. *Towards Real-Time Automatic Portrait Matting on Mobile Devices”*. Arxiv preprint 1904.03816 [link](https://arxiv.org/abs/1904.03816)
 * Youngdoo Son, **Hyeongmin Byun** and Jaewook Lee\*. *Nonparametric Machine Learning Models for Predicting the Credit Default Swaps: An Empirical Study*. Expert Systems with Applications, Volume 58, 1 October 2016, Pages 210-220, ISSN 0957-4174. [link](http://dx.doi.org/10.1016/j.eswa.2016.03.049)
 * **Hyeongmin Byun**, Youngdoo Son and Jaewook Lee. *Effects of Keyword Search Volume on Credit Default Swap Spread Prediction*. KIIE (Korea Institute of Industrial Engineers) Conference, April 2015. Jeju, Korea. [link](http://riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=351022e8f46b6acb7ecd42904f0c5d65)
 * Youngdoo Son, **Hyeongmin Byun** and Jaewook Lee. “Nonparametric Models for Predicting Credit Default Swap Prices: Empirical Study.” *INFORMS (Institute for Operations Research and Management Science) Annual Meeting 2014*, Nov 2014. San Francisco, CA, USA.
 * Youngdoo Son, Saerom Park, **Hyeongmin Byun** and Jaewook Lee. *Computing Default Probability using Ensemble Method.* 15th APIEMS (Asia Pacific Industrial Engineering and Management Systems) Conference, Oct 2014. Jeju, Korea. *Best Student's Paper Award* [news](http://eng.snu.ac.kr/node/896)
+
+## **Writings and Blog Articles**
+
+* [Tips for building fast portrait segmentation network with TensorFlow Lite](https://hyperconnect.github.io/2018/07/06/tips-for-building-fast-portrait-segmentation-network-with-tensorflow-lite.html) with Hyperconnect ML Team, Hyperconnect Tech Blog, Jul 2018
+* [Low Power Image Recognition Challenge 2018](https://hyperconnect.github.io/2018/06/26/lpirc-2018.html) with Hyperconnect ML Team, Hyperconnect Tech Blog, Jun 2018
+
 
 <!---
 ## **Skills**
