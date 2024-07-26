@@ -73,51 +73,6 @@ layout: default
 
 ## **Writings and Blog Articles**
 
-* [아자르에서 AI 기반 추천 모델의 타겟 지표를 설정하는 방법 (feat. 아하 모멘트)](https://hyperconnect.github.io/2024/04/26/azar-aha-moment.html) with Joonyoung Yi and Hyeokhwa Seong, Apr 2024
+* [아자르에서 AI 기반 추천 모델의 타겟 지표를 설정하는 방법 (feat. 아하 모멘트)](https://hyperconnect.github.io/2024/04/26/azar-aha-moment.html) with Joonyoung Yi and Hyeokhwa Seong, Hyperconnect Tech Blob, Apr 2024
 * [Tips for building fast portrait segmentation network with TensorFlow Lite](https://hyperconnect.github.io/2018/07/06/tips-for-building-fast-portrait-segmentation-network-with-tensorflow-lite.html) with Hyperconnect ML Team, Hyperconnect Tech Blog, Jul 2018
 * [Low Power Image Recognition Challenge 2018](https://hyperconnect.github.io/2018/06/26/lpirc-2018.html) with Hyperconnect ML Team, Hyperconnect Tech Blog, Jun 2018
-
-
-<!---
-## **Skills**
-
-### **TECHNICALITIES**
-
-* Python, SQL, R, LaTeX - Intermediate
-* Bash, MATLAB, C/C++ - Beginner
-
-### **LANGUAGES**
-
-* Korean - Native
-* English - Intermediate
-
-
-## **Teaching and Tutoring Experiences**
-
-### **TEACHING ASSISTANT** (Seoul National University)
-
-* Operations Research II / 2014 Spring, 2015 Spring
-* Engineering Research and Practice II / 2014 Spring
-
-### **UNDERGRADUATE TUTOR** (Seoul National University)
-
-* Operations Research I / 2013 Fall
-* Engineering Mathematics I / 2013 Spring
-* Foundations of Physics I / 2013 Spring
-* Basic Mathematics for Freshmen / 2010-2011 Winter
-* Mathematics for Humanities and Social Sciences I / 2010 Fall
-
-## **Extracurricular Activities**
-
-### SNUIE Student’s Council
-
-* Vice President, 2013
-
-### FIELD CAMP: Inter-school conference for IE Undergraduates
-
-* Staff / 2010 Summer
-* Director, School Representative / 2011 - 2012 Summer
-
-## Other Links
-
-* Linkedin: [Hyeongmin Byun](https://www.linkedin.com/in/hyeongmin-byun-054281151/) -->
