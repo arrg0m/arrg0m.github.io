@@ -8,9 +8,13 @@ layout: default
 
 ## Working Experience
 
+### [Moloco](https://www.moloco.com/?lang=en), Seoul, Korea
+
+* **Applied Scientist** / Oct 2024 - Present
+
 ### [Hyperconnect](https://hyperconnect.com/?lang=en), Seoul, Korea
 
-* **Data Scientist** / Mar 2022 -
+* **Data Scientist** / Mar 2022 - Oct 2024
 
 * **Machine Learning Software Engineer** / Nov 2019 - Mar 2022
 
